@@ -1,0 +1,10 @@
+git clone https://github.com/relationship/relationship.github.io.git
+
+cd relationship.github.io
+
+# ~/relationship.github.io
+echo "Hello GitHub Pages" > index.html
+
+git add .
+git commit -m "First commit"
+git push
